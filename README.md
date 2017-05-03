@@ -6,7 +6,7 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 2. [logger] - a PHP library to send logs from your app into Logz.io.
 3. [auth0-logs-to-logzio] - extension for shipping Auth0 logs into Logz.io.
 4. [Logz.io Log Shipping Examples] - extensive list of best practices and examples for logging applications with Logz.io. 
-5. [fluentd-logzio-kubernetes] - a Flunetd-based collector for sending logs from Kubernetes into Logz.io.
+5. [fluentd-logzio-kubernetes] - a Fluentd-based collector for sending logs from Kubernetes into Logz.io.
 6. [ansible-logzio] - Ansible role to send logs into Logz.io. 
 7. [logzio-go] - A goland client for sending logs into Logz.io.
 8. [logzio-nlog] - A shipped for sending logs from NLog into Logz.io. 
