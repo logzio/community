@@ -9,7 +9,7 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 5. [fluentd-logzio-kubernetes] - a Fluentd-based collector for sending logs from Kubernetes into Logz.io.
 6. [ansible-logzio] - Ansible role to send logs into Logz.io. 
 7. [logzio-go] - A golang client for sending logs into Logz.io.
-8. [logzio-nlog] - A shipped for sending logs from NLog into Logz.io. 
+8. [logzio-nlog] - A shipper for sending logs from NLog into Logz.io. 
 9. [logruzio] - A Logrus hook for shipping logs into Logz.io. 
 10. [puppet-logzio-shipper] - A Puppet module for shipping logs to Logz.io using rsyslog. 
 11. [ansible-role-logz-io] - Ansible role for installing Logz.io shippers.
