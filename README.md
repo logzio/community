@@ -14,7 +14,8 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 10. [puppet-logzio-shipper] - A Puppet module for shipping logs to Logz.io using rsyslog. 
 11. [ansible-role-logz-io] - Ansible role for installing Logz.io shippers.
 12. [good-logzio] - Logz.io logger for hapijs. 
-13. [JustLog] - logging library for iOS with support for Logz.io. Supports console, file and remote Logstash logging via TCP. 
+13. [JustLog] - logging library for iOS with support for Logz.io. Supports console, file and remote Logstash logging via TCP.
+14. [angular1-logzio-logging] - Angular 1 (currently using 1.3.20) logging module supporing Logz.io integration.
 
 [threatsatck-to-logzio]: https://github.com/threatstack/threatstack-to-logzio
 [logger]: https://github.com/vagnercsouza/logger
@@ -29,3 +30,4 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 [ansible-role-logz-io]: https://github.com/wtanaka/ansible-role-logz-io
 [good-logzio]:  https://gitlab.com/widgetic/good-logzio
 [JustLog]: https://github.com/justeat/JustLog
+[angular1-logzio-logging]: https://github.com/drmikecrowe/angular1-logzio-logging
