@@ -16,6 +16,7 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 12. [good-logzio] - Logz.io logger for hapijs. 
 13. [JustLog] - logging library for iOS with support for Logz.io. Supports console, file and remote Logstash logging via TCP.
 14. [angular1-logzio-logging] - Angular 1 (currently using 1.3.20) logging module supporing Logz.io integration.
+15. [fluentd-logzio] - Docker wrapper to the Logz.io Fluentd plugin.
 
 [threatsatck-to-logzio]: https://github.com/threatstack/threatstack-to-logzio
 [logger]: https://github.com/vagnercsouza/logger
@@ -31,3 +32,4 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 [good-logzio]:  https://gitlab.com/widgetic/good-logzio
 [JustLog]: https://github.com/justeat/JustLog
 [angular1-logzio-logging]: https://github.com/drmikecrowe/angular1-logzio-logging
+[fluentd-logzio]: https://github.com/jdrago999/fluentd-logzio
