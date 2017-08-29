@@ -18,6 +18,7 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 14. [angular1-logzio-logging] - Angular 1 (currently using 1.3.20) logging module supporing Logz.io integration.
 15. [fluentd-logzio] - Docker wrapper to the Logz.io Fluentd plugin.
 16. [serilog-sinks-logzio] - A Serilog sink that sends HTTP POST requests over the network.
+17. [elastica-logzio] - PHP logging library for shipping logs to Logz.io.
 
 [threatsatck-to-logzio]: https://github.com/threatstack/threatstack-to-logzio
 [logger]: https://github.com/vagnercsouza/logger
@@ -35,3 +36,4 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 [angular1-logzio-logging]: https://github.com/drmikecrowe/angular1-logzio-logging
 [fluentd-logzio]: https://github.com/jdrago999/fluentd-logzio
 [serilog-sinks-logzio]: https://github.com/asperheim/serilog-sinks-logzio
+[elastica-logzio]: https://github.com/lordoffreaks/elastica-logzio
