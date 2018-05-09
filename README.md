@@ -2,7 +2,7 @@
 
 List of Logz.io plugins, integrations and logging resources developed by the Logz.io community.
 
-1. [threatsatck-to-logzio] - a Threatstack shipper for sending alerts into Logz.io.
+1. [logzio-node-debug] - A nodejs debug wrapper for Logz.io.
 2. [logger] - a PHP library to send logs from your app into Logz.io.
 3. [auth0-logs-to-logzio] - extension for shipping Auth0 logs into Logz.io.
 4. [Logz.io Log Shipping Examples] - extensive list of best practices and examples for logging applications with Logz.io. 
@@ -19,7 +19,6 @@ List of Logz.io plugins, integrations and logging resources developed by the Log
 15. [fluentd-logzio] - Docker wrapper to the Logz.io Fluentd plugin.
 16. [serilog-sinks-logzio] - A Serilog sink that sends HTTP POST requests over the network.
 17. [elastica-logzio] - PHP logging library for shipping logs to Logz.io.
-18. [logzio-node-debug] - A nodejs debug wrapper for Logz.io.
 
 [threatsatck-to-logzio]: https://github.com/threatstack/threatstack-to-logzio
 [logger]: https://github.com/vagnercsouza/logger
