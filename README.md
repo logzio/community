@@ -1,6 +1,6 @@
 ## Logz.io Community Integrations
 
-List of Logz.io plugins, integrations and logging resources developed by the community.
+List of Logz.io plugins, integrations and logging resources developed by the Logz.io community.
 
 1. [threatsatck-to-logzio] - a Threatstack shipper for sending alerts into Logz.io.
 2. [logger] - a PHP library to send logs from your app into Logz.io.
