@@ -19,6 +19,7 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 15. [fluentd-logzio] - Docker wrapper to the Logz.io Fluentd plugin.
 16. [serilog-sinks-logzio] - A Serilog sink that sends HTTP POST requests over the network.
 17. [elastica-logzio] - PHP logging library for shipping logs to Logz.io.
+18. [logzio-node-debug] - A nodejs debug wrapper for Logz.io.
 
 [threatsatck-to-logzio]: https://github.com/threatstack/threatstack-to-logzio
 [logger]: https://github.com/vagnercsouza/logger
@@ -37,3 +38,4 @@ List of Logz.io plugins, integrations and logging resources developed by the com
 [fluentd-logzio]: https://github.com/jdrago999/fluentd-logzio
 [serilog-sinks-logzio]: https://github.com/asperheim/serilog-sinks-logzio
 [elastica-logzio]: https://github.com/lordoffreaks/elastica-logzio
+[logzio-node-debug]: https://github.com/amio-io/logzio-node-debug
