@@ -36,7 +36,7 @@ If you witness or experience a code of conduct violation, please reach out to us
 
 #### How to Report via Email or Web
 
-We can be either reached directly at [community@logz.io](mailto:community@logz.io) or anonymously via our web form here. 
+We can be either reached directly at [community@logz.io](mailto:community@logz.io) or anonymously via [our web form](https://goo.gl/forms/FiL1lv18yYb2R5ln2).
 
 #### How to Report on Slack
 
@@ -46,7 +46,7 @@ This method should only be used if the policy violation happens in our Slack org
 
 ![Image TBD](images/link-slack-msg-step2.png)
 
-Please note that policy violates in our Slack org do not need to be reported in Slack. If you submit a policy violation in Slack to either our email alias or via the form, please still include a link to the violation so we can find it and handle it efficiently.
+Please note that policy violates in our Slack org do not need to be reported in Slack. If you submit a policy violation from Slack to either our email alias or via the [form](https://goo.gl/forms/FiL1lv18yYb2R5ln2), please still include a link to the violation so we can find it and handle it efficiently.
 
 #### Your Code of Conduct, A History
 
