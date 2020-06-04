@@ -1,6 +1,6 @@
-## Logz.io Community Integrations
+# Logz.io Community Integrations
 
-List of Logz.io plugins, integrations and logging resources developed by the Logz.io community.
+List of [Logz.io](https://logz.io) plugins, integrations and logging resources developed by the [Logz.io](https://logz.io) community.
 
 1. [logzio-node-debug] - A nodejs debug wrapper for Logz.io.
 2. [logger] - a PHP library to send logs from your app into Logz.io.
@@ -15,10 +15,11 @@ List of Logz.io plugins, integrations and logging resources developed by the Log
 11. [ansible-role-logz-io] - Ansible role for installing Logz.io shippers.
 12. [good-logzio] - Logz.io logger for hapijs. 
 13. [JustLog] - logging library for iOS with support for Logz.io. Supports console, file and remote Logstash logging via TCP.
-14. [angular1-logzio-logging] - Angular 1 (currently using 1.3.20) logging module supporing Logz.io integration.
+14. [angular1-logzio-logging] - Angular 1 (currently using 1.3.20) logging module supporting Logz.io integration.
 15. [fluentd-logzio] - Docker wrapper to the Logz.io Fluentd plugin.
 16. [serilog-sinks-logzio] - A Serilog sink that sends HTTP POST requests over the network.
 17. [elastica-logzio] - PHP logging library for shipping logs to Logz.io.
+18. [ansible-role-rsyslog] - Ansible role to forward syslog to a log service like Logz.io.
 
 [threatsatck-to-logzio]: https://github.com/threatstack/threatstack-to-logzio
 [logger]: https://github.com/vagnercsouza/logger
@@ -38,3 +39,4 @@ List of Logz.io plugins, integrations and logging resources developed by the Log
 [serilog-sinks-logzio]: https://github.com/asperheim/serilog-sinks-logzio
 [elastica-logzio]: https://github.com/lordoffreaks/elastica-logzio
 [logzio-node-debug]: https://github.com/amio-io/logzio-node-debug
+[ansible-role-rsyslog]: https://github.com/papanito/ansible-role-rsyslog
