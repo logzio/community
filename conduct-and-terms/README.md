@@ -1,4 +1,4 @@
-# Logz.io Community Code of Conduct, Terms, and all that necesary stuff
+# Logz.io Community Code of Conduct, Terms, and all that necessary stuff
 
 ## Code of Conduct
 
@@ -18,7 +18,6 @@ We want everyone to be able to work together in a collaborative environment. Som
 * **Respect time zones.** We don't all live in the same time zone, so it might take a sleep cycle, or a work + sleep cycle, in someone else's time zone for them to get back to you.
 * **Be supportive.** When you give feedback, please try to stick to constructive criticism rather than simply criticism. Buffer has a [guide for giving feedback](https://open.buffer.com/how-to-give-receive-feedback-work/) that is definitely worth a read—both for giving and receiving feedback with coworkers, or when interacting with members of the Logz.io Community.
 * **Collaborate.** See a project you like or a discussion that suits you? Jump right in, that's what Logz.io Community is all about! Feel free to use the tools at your disposal to reach out to one another and discuss technical challenges of mutual interest.
-
 
 ### What we don't want to see
 
